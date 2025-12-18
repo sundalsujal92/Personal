@@ -50,8 +50,8 @@ Or manually deploy via **GitHub integration**.
 ---
 
 ## 📬 Contact  
-📧 **Email:** [huzaifa.pro.dev@gmail.com](mailto:huzaifa.pro.dev@gmail.com)  
-🔗 **LinkedIn:** [Muhammad Huzaifa](https://www.linkedin.com/in/muhammad-huzaifa-tech)  
+📧 **Email:** [sundalsujal925@gmail.com](mailto:sundalsujal925@gmail.com)  
+🔗 **LinkedIn:** [Sujal Kumar](https://linkedin.com/in/sujal-kumar-)  
 
 
 
